@@ -1,0 +1,38 @@
+body{
+	background-color: #f3f6f4;
+}
+.lytLogin{
+	background-color: #fff;
+	border-radius: 10px;
+	position: fixed;
+	top: 25%;
+	left: 37.5%;
+	padding: 15px;
+}
+.formLogin{
+	margin-top: 40px;
+}
+.btnLogin{
+	width: 100%;
+}
+.headerHome{
+	background-color: #444444;
+	height: 50px;
+}
+.welcomeHome{
+	color: #fff;
+}
+.logoutHome{
+	color: #fff;
+	cursor: pointer;
+}
+.logoutHome:hover{
+	color: #fff;
+	cursor: pointer;
+}
+.contentHome{
+	margin-top: 15px;
+}
+.tblHome{
+	margin-top: 20px;
+}
